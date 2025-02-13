@@ -4,6 +4,16 @@ Rock-Paper-Scissors Game Development
 
 Rock-Paper-Scissors is a simple hand game played between two participants, often used for decision-making or for fun. Each player simultaneously selects one of three options that incluides either Rock, Paper, or Scissors. The game follows three basic rules which is , Rock crushes Scissors, Scissors cut Paper, and Paper covers Rock. If both players make the same choice, the game results in a tie. The Rock Paper & Scissors game developed had underwent several iterations to enhance and improve the final output of the game. Each Iteration had a specific objective focused development to aid the progress of the game development into a succesful working project wihout bugs or errors. Bugs and errors within each iteration where identified and solved to ensure a smooth user-friendly experience.
 
+## Branching and Merging Strategy
+
+We used a feature-based branching strategy for better project organization.
+
+- **Branches:** Each iteration (iteration-1, iteration-2, etc.) was developed in a separate branch to maintain a clean main branch.
+- **Merging:** After testing each iteration, we merged it into the main branch.
+- **Tagging:** We used version tags (v1.0, v2.0, etc.) to mark major development milestones.
+
+This approach ensured organized development and easy rollback if needed.
+
 [Iteration 1: Basic Game Setup]
 Features added:
 
