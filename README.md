@@ -59,3 +59,18 @@ Second page to display the result on who was the winner
 
 Conclusion
 Through an iterative development process, the Rock-Paper-Scissors game evolved from a basic prototype to a fully functional, engaging, and visually appealing web application. The incorporation of a scoreboard, improved UI, and better game flow significantly enhanced user experience.
+
+**Kanban Explanation**
+
+For our Rock, Paper, Scissors game project, we used Trello Kanban board to plan, organize, and track our tasks. Our Kanban board has five primary columns including Backlog, To Do, In Progress, Testing, and Done.
+
+**How we used the Kanban board**
+We began by listing all the necessary tasks required to complete the project in the "Backlog" column together with the due dates for each tasks, and assigned each task for our group members. Then, we moved several tasks that must be initiated first to the “To Do” column, including “research game logic and rules for Rock, Paper, Scissors game” and “identify required functions and classes for the game”. Later, group members chose tasks from “To Do” column and moved them to “In Progress” when they started working on them. Upon completing a task, it was moved to “Testing” column for review, testing and debugging to ensure that the code is error-free and perform as expected. In the end, fully tested and validated tasks were moved to “Done” column, indicating their completion.
+
+**Effectiveness of the Kanban board**
+Utilizing Trello’s Kanban board gave some significant benefits in this assignment. Firstly, it helped us to improve task organization. It is because tasks were categorized efficiently, making them easier to track our progress from the beginning stage. Moreover, team collaboration became clear and effective as each member were assigned tasks equally, thus ensures accountability. In addition to that, due to the due dates we set, it helped us stay on schedule, leading to better time management. Lastly, the Kanban board helped us to maintain a smooth development process since we followed the structure movement of tasks from “Backlog” to “Done”.
+
+**Challenges**
+The first challenge we faced was task dependencies because some tasks relied on completion of other tasks. This caused delays when the earlier required parts were not finished on time. Furthermore, during the testing and debugging stage, we were required to identify and fix bugs in all three iterations, which leads to additional time-consuming in our progress. Lastly, when we needed to change certain task’s due dates, Trello sometimes restricted editing past due dates. Thus, making it difficult to amend the due dates when needed.
+
+#Link to Kanban Board: https://trello.com/b/bSVnbH2b/rps-task-management
