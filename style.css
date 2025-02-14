@@ -1,0 +1,57 @@
+
+
+body{
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+    background: radial-gradient(
+        134.34% 134.34% at 50% 0%,
+        #421f57 0%,
+        #371332 100%
+        ); 
+    height: 100vh; 
+}
+.choices{
+    margin-bottom: 30px;
+}
+
+h1{
+    font-size: 3.5rem;
+    color: white;
+}
+.choices button{
+    font-size: 7.5rem;
+    margin: 0 20px;
+    background-color: rgb(190, 181, 9);
+    border: 10px;
+    border-radius: 40px;
+    cursor: pointer;
+    transition: background-color 0.5s ease;
+}
+
+.choices button:hover{
+    background-color:rgb(243, 231, 2);
+}
+
+#playerDisplay , #computerDisplay {
+    font-size: 2.5rem;
+    color: white;
+}
+
+#resultDisplay{
+    font-size: 5rem;
+    margin: 30px 0;
+
+}
+
+.greenText {
+    color: chartreuse;
+
+}
+
+.redText {
+    color: red;
+    
+}
