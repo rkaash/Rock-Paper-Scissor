@@ -60,9 +60,10 @@ Second page to display the result on who was the winner
 # How to download the file and run on your computer
 1. After enter the repository main page via the url.
 2. Under main branch access the "<>Code" button to download the zip file.
-3. Use your personal compiler (eg. Visual Studio Code) to view and edit the available files to your personal preferences that may include changing the layout, pictures and etc.
-4. Then, save the changes to view the update.
-5. If you like the original version of the source code you can proceed to run the code without any changes.
+3. Extract the folder from the zip file.
+4. Use your personal compiler (eg. Visual Studio Code) to view and edit the available files to your personal preferences that may include changing the layout, pictures and etc.
+5. Then, save the changes to view the update.
+6. If you like the original version of the source code you can proceed to run the code without any changes.
 
 # Conclusion
 Through an iterative development process, the Rock-Paper-Scissors game evolved from a basic prototype to a fully functional, engaging, and visually appealing web application. The incorporation of a scoreboard, improved UI, and better game flow significantly enhanced user experience.
